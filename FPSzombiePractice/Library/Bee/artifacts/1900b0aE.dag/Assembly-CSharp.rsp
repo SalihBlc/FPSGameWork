@@ -362,11 +362,6 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.7f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.7f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/Arayuz UI/Scripts/Arayuz.cs"
-"Assets/Character/Scripts/CameraController.cs"
-"Assets/Character/Scripts/CharacterMovement.cs"
-"Assets/Character/Scripts/ShootController.cs"
-"Assets/EnemySpawn.cs"
 "Assets/JMO Assets/WarFX/Demo/Assets/CFX_AutoStopLoopedEffect.cs"
 "Assets/JMO Assets/WarFX/Demo/Assets/CFX_Demo_RandomDir.cs"
 "Assets/JMO Assets/WarFX/Demo/Assets/CFX_Demo_RotateCamera.cs"
@@ -381,7 +376,12 @@
 "Assets/JMO Assets/WarFX/Scripts/WFX_BulletHoleDecal.cs"
 "Assets/JMO Assets/WarFX/Scripts/WFX_LightFlicker.cs"
 "Assets/JMO Assets/WarFX/Spawn System/CFX_SpawnSystem.cs"
-"Assets/ZombieCharacter/ZombieScipts/ZombieMovement.cs"
+"Assets/Scripts/Character Scripts/CharacterMovement.cs"
+"Assets/Scripts/Character Scripts/ShootController.cs"
+"Assets/Scripts/InterFace Scripts/Arayuz.cs"
+"Assets/Scripts/InterFace Scripts/CameraController.cs"
+"Assets/Scripts/ZombieScipts/EnemySpawn.cs"
+"Assets/Scripts/ZombieScipts/ZombieMovement.cs"
 -langversion:9.0
 
 /deterministic
